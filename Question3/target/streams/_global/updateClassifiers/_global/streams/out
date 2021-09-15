@@ -1,0 +1,4 @@
+[warn] mockito-scala_2.12-1.16.15-sources.jar no longer exists at /home/knoldus/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-scala_2.12/1.16.15/mockito-scala_2.12-1.16.15-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/home/knoldus/IdeaProjects/unit%20_integration/"), "UT_IT")...
+[debug] Done updating ProjectRef(uri("file:/home/knoldus/IdeaProjects/unit%20_integration/"), "UT_IT")
